@@ -1,9 +1,9 @@
 # Ski Day Counter
 Ski Day Counter app exercise built with React, Express and Redux.
 
-<img src="./screenshot1.png" width="20%" style="display:inline-block;"/>
-<img src="./screenshot2.png" width="20%" style="display:inline-block;"/>
-<img src="./screenshot3.png" width="20%" style="display:inline-block;"/>
+<img src="./screenshot1.png" width="30%" align="left" />
+<img src="./screenshot2.png" width="30%" align="left" />
+<img src="./screenshot3.png" width="30%" align="left" />
 
 ## To Start Exercise
 - Clone repository
